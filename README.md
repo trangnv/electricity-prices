@@ -4,5 +4,7 @@
 - [Electricity prices for non-household consumers - bi-annual data (from 2007 onwards)](https://ec.europa.eu/eurostat/databrowser/view/NRG_PC_205/default/table?lang=en&category=nrg.nrg_price.nrg_pc): `data/nrg_pc_205_linear-electricity_prices_non_household.csv`
 
 ## EDA
+
+### Prices for household consumers
 - Time: 2007 - 2021, unluckily 2022 not available
 - 
