@@ -1,10 +1,13 @@
 ## Dataset
-- [Electricity prices components for household consumers - annual data (from 2007 onwards)](https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204_c/default/table?lang=en): `data/nrg_pc_204_c_linear-electricity_prices_components_household.csv`
-- [Electricity prices for household consumers - bi-annual data (from 2007 onwards)](https://ec.europa.eu/eurostat/databrowser/view/NRG_PC_204/default/table?lang=en&category=nrg.nrg_price.nrg_pc): `data/nrg_pc_204_linear-electricity_prices_household.csv`
-- [Electricity prices for non-household consumers - bi-annual data (from 2007 onwards)](https://ec.europa.eu/eurostat/databrowser/view/NRG_PC_205/default/table?lang=en&category=nrg.nrg_price.nrg_pc): `data/nrg_pc_205_linear-electricity_prices_non_household.csv`
+The dataset contains average retail price of electricity for different sectors, for every state in The US, from Jan 2001 to recent month and will be updated regularly
 
-## EDA
-
-### Prices for household consumers
-- Time: 2007 - 2021, unluckily 2022 not available
+- Last updated: 17 September 2022
+- Locations: All 52 states in the US
+- Sectors: residental, commercial, industrial, transportation
+- Date range: Jan 2001 - Jun 2022
 - 
+
+## Use Cases and Applications
+This dataset can be used to forecast future electricity price and/or used with other datasets for further analyses, e.g. dependences of electricity on gas price
+
+
