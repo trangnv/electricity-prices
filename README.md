@@ -5,9 +5,14 @@ The dataset contains average retail price of electricity for different sectors, 
 - Locations: All 52 states in the US
 - Sectors: residental, commercial, industrial, transportation
 - Date range: Jan 2001 - Jun 2022
-- 
+- Calculated monthly price change
 
 ## Use Cases and Applications
-This dataset can be used to forecast future electricity price and/or used with other datasets for further analyses, e.g. dependences of electricity on gas price
+- The dataset can be used to forecast future electricity price and/or used with other datasets for further analyses, e.g. dependences of electricity on gas price
 
+
+
+## Sample
+
+## [Some data exploratory data analysis]()
 
