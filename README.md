@@ -14,5 +14,5 @@ The dataset contains average retail price of electricity for different sectors, 
 
 ## Sample
 
-## [Some data exploratory data analysis]()
+## [Some data exploratory data analysis](https://github.com/trangnv/electricity-prices/blob/main/EDA.ipynb)
 
